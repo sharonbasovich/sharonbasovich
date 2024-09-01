@@ -1,13 +1,11 @@
-<div>
-<p>Sharon Basovich</p>
+<div align="center">
+<h1>Sharon Basovich</h1>
 Aa<br>bc<br>s
 
-<h1 align="center">Languages</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+<h1>Tech Stack</h1>
+<img src="https://skillicons.dev/icons?i=ts,js,java,cpp,html,css,"/>
+<img src="https://skillicons.dev/icons?i=nextjs,vite,react,threejs,vercel,express,"/>
+<img src="https://skillicons.dev/icons?i=blender,unity,figma,vscode,git,github,"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sharonbasovich&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true)<br/>
