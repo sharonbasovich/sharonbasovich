@@ -1,4 +1,5 @@
 <div align="center">
+<div><img src="torus.gif" width="300"></div>
 <h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=40&duration=2000&pause=10000&color=61AFEF&background=F0B86200&center=true&vCenter=true&width=435&lines=Sharon+Basovich" alt="Typing SVG" /></a>
 </h1>
