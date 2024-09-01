@@ -24,6 +24,9 @@
     </a>&nbsp;
     <a href="mailto:basovichsharon@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail"/>
-    </a>&nbsp;
+    </a>
   </p>
+<a href="https://sharonbasovich.github.io/PersonalWebsite/">
+      <img src="GoToWebsite.png" width="250"/>
+</a>
 </div>
