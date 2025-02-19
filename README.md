@@ -26,7 +26,7 @@
       <img src="https://skillicons.dev/icons?i=gmail"/>
     </a>
   </p>
-<a href="https://sharonbasovich.github.io/PersonalWebsite/">
+<a href="https://sharonbasovich.tech/">
       <img src="GoToWebsite.png" width="250"/>
 </a>
 </div>
