@@ -6,6 +6,7 @@
 
 <h1>Tech Stack</h1>
 
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=1092&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sharonbasovich&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br>
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,cpp,html,css"/><br>
