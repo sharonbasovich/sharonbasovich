@@ -17,3 +17,9 @@ The film shows the technologies used in Sharon’s projects. The logos appear on
 ## Film and book illustration
 
 The Blender scene, sculpture, choreography, and cover and page illustrations were created for this film. The book page reproduces the opening of Arthur Conan Doyle’s 1891 story “A Scandal in Bohemia.” The C++ chip artwork was drawn for the film. [Standard C++ Foundation terms](https://isocpp.org/home/terms-of-use)
+
+## Orbital Observatory imagery
+
+- **Galactic sky.** Ernie Wright, NASA/Goddard Space Flight Center Scientific Visualization Studio. Gaia DR2 data from ESA/Gaia/DPAC. The scene rotates the 8192 × 4096 Galactic OpenEXR and adjusts exposure. [Deep Star Maps 2020](https://svs.gsfc.nasa.gov/4851/) · [NASA SVS reuse guidance](https://svs.gsfc.nasa.gov/help/)
+- **Saturn, rings, and lunar map.** Solar System Scope / INOVE, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The Saturn globe uses the 4096 × 2048 image distributed as `8k_saturn.jpg`. The 8192 × 500 radial texture supplies ring color and opacity. The 8192 × 4096 lunar color map supplies surface color and a subtle bump map. The scene projects these maps onto original Blender geometry and lights them as part of a staged system. [Solar System Scope textures](https://www.solarsystemscope.com/textures/)
+- **Lighting reference.** The lighting takes inspiration from NASA’s Cassini image *The Day the Earth Smiled*, credited to NASA/JPL-Caltech/SSI. [Cassini panorama](https://science.nasa.gov/resource/the-day-the-earth-smiled/)
