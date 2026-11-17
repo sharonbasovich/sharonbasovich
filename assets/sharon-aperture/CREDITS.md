@@ -16,10 +16,48 @@ The film shows the technologies used in Sharon’s projects. The logos appear on
 
 ## Film and book illustration
 
-The Blender scene, sculpture, choreography, and cover and page illustrations were created for this film. The book page reproduces the opening of Arthur Conan Doyle’s 1891 story “A Scandal in Bohemia.” The C++ chip artwork was drawn for the film. [Standard C++ Foundation terms](https://isocpp.org/home/terms-of-use)
+The observatory, modeled collectibles, aperture geometry, choreography, and cover and page illustrations were created for this film. The waving hand derives from the licensed Microsoft Fluent artwork credited below. The book page reproduces the opening of Arthur Conan Doyle’s 1891 story “A Scandal in Bohemia.” The C++ chip artwork was drawn for the film. [Standard C++ Foundation terms](https://isocpp.org/home/terms-of-use)
 
 ## Orbital Observatory imagery
 
 - **Galactic sky.** Ernie Wright, NASA/Goddard Space Flight Center Scientific Visualization Studio. Gaia DR2 data from ESA/Gaia/DPAC. The scene rotates the 8192 × 4096 Galactic OpenEXR and adjusts exposure. [Deep Star Maps 2020](https://svs.gsfc.nasa.gov/4851/) · [NASA SVS reuse guidance](https://svs.gsfc.nasa.gov/help/)
 - **Saturn, rings, and lunar map.** Solar System Scope / INOVE, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The Saturn globe uses the 4096 × 2048 image distributed as `8k_saturn.jpg`. The 8192 × 500 radial texture supplies ring color and opacity. The 8192 × 4096 lunar color map supplies surface color and a subtle bump map. The scene projects these maps onto original Blender geometry and lights them as part of a staged system. [Solar System Scope textures](https://www.solarsystemscope.com/textures/)
 - **Lighting reference.** The lighting takes inspiration from NASA’s Cassini image *The Day the Earth Smiled*, credited to NASA/JPL-Caltech/SSI. [Cassini panorama](https://science.nasa.gov/resource/the-day-the-earth-smiled/)
+
+## Oak tabletop
+
+**White Oak Veneer** by Jenelle van Heerden / Poly Haven. The original 2048 × 2048 color, roughness, and OpenGL normal maps are used on the film's modeled tabletop with a satin finish and fixed grain mapping. The source assets are CC0 1.0. [Asset and author](https://polyhaven.com/a/white_oak_veneer) · [Poly Haven asset license](https://polyhaven.com/license) · [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+## Microsoft Fluent waving hand
+
+The waving hand and its motion marks use **Waving hand / Default** artwork from Microsoft's Fluent UI Emoji and Fluent UI Emoji Animated repositories. The 256 × 256 rendered artwork was adapted here into a rounded, closed relief mesh that follows its silhouette and retains its colors through UV mapping. The blue motion marks are separate arc meshes, animated with the hand's wrist. This film's relief geometry and wave rig are adaptations of the licensed artwork; the published Microsoft source files do not include Microsoft's original 3D mesh.
+
+- [Fluent UI Emoji source artwork](https://github.com/microsoft/fluentui-emoji/blob/main/assets/Waving%20hand/Default/3D/waving_hand_3d_default.png)
+- [Fluent UI Emoji Animated source animation](https://github.com/microsoft/fluentui-emoji-animated/blob/main/assets/Waving%20hand/Default/animated/waving_hand_animated_default.png)
+- [Fluent UI Emoji license](https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE) · [Fluent UI Emoji Animated license](https://github.com/microsoft/fluentui-emoji-animated/blob/main/LICENSE)
+
+Both source repositories carry the following identical MIT notice:
+
+```text
+MIT License
+
+Copyright (c) Microsoft Corporation.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE
+```
